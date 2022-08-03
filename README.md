@@ -1,2 +1,31 @@
-# Nourssaif.github.io
-My first website
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    
+    <link rel="icon" type="image/png" href="/Users/lw201/Desktop/Nour/NewProject/Nour.png"/>
+</head>
+<body>
+    <header>
+        <a href="/NewProject/home.html"><h1>Nour First html website</h1><hr></a>
+        <div>
+            <a href="/NewProject/home.html">Home</a>														 
+            <a href="/NewProject/Who is Nour.html">Who is Nour?</a>
+            <a href="/NewProject/Contact me.html">Contact me</a><hr>
+        </div>
+    </header>
+    <main>
+        <img src="/NewProject/Welcome.jpg" border="1" width="40%" alt="Welcoming image"><br>
+        <p>
+        Welcome to my first html page feel freely to browsing, you can contact me<br>     
+        and i will respone when i will be available thank you!!
+        </p>
+        <summary>
+            "This Website is for educational purposes only"
+        </summary><br>
+    </main>
+    <footer>
+        &copy;2022 Nour Eddeen Saif
+    </footer>
+</body>
+</html>
