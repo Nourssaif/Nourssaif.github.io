@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     
-    <link rel="icon" type="image/png" href="/Users/lw201/Desktop/Nour/NewProject/Nour.png"/>
+    <link rel="icon" type="image/png" href="/NewProject/Nour.png"/>
 </head>
 <body>
     <header>
