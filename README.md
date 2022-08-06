@@ -2,8 +2,6 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    
-    <link rel="icon" type="image/png" href="/NewProject/Nour.png"/>
 </head>
 <body>
     <header>
